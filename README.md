@@ -28,4 +28,4 @@ The total number of coins is 5. They are distributed as follows:
 - 2 pennies
 ```
 
-**Tips and Hints:** If you want to find the maximum number of quarters that can make a certain amount of change, the `Math.floor()` function can help. let's say that `pennies` has a value of 57. If you calculate `pennies / 25` in JavaScript, you will get something like 2.28. That is not quite the right answer because you can never have 0.28 quarters. However, `Math.floor(pennies/25)` gives exactly 2, which is the number of quarters in 57 cents. With a little tweaking, you can do something similar for all of the other coins.
+**Tips and Hints:** If you want to find the maximum number of quarters that can make a certain amount of change, the integer division operator (`//`) can help. Let's say that `pennies` has a value of 57. If you calculate `pennies / 25` in Python, you will get something like 2.28. That is not quite the right answer because you can never have 0.28 quarters. However, integer division `pennies // 25` gives exactly 2, which is the number of quarters in 57 cents. With a little tweaking, you can do something similar for all of the other coins.
