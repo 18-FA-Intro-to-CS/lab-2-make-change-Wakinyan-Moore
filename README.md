@@ -1,8 +1,8 @@
 # Introductiong to Computer Science - Fall 2018
 
-## Lab 2 - Functions and Change
+## Lab 2 - Making Change
 
-**Purpose:** The purpose of this lab is to get some experience using functions in Python. You will design and write a simple program that computes the number of coins and their denominations that might be used in making change.
+**Purpose:** The purpose of this lab is to get some more experience doing computations in Python. You will design and write a simple program that computes the number of coins and their denominations that might be used in making change.
 
 **Practice:** Study the examples in Chapter 2 of the text and on the [course website](http://itech190.erickuha.com).
 
